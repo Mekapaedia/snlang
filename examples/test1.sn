@@ -1,0 +1,4 @@
+int32 a = 1;
+int32 b = 2;
+int32 c;
+c = a + b;
